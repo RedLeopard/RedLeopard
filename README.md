@@ -122,7 +122,7 @@ I also use Draw.io to draw AWS architecture diagrams, this helps me to visualize
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Thornton-blue?logo=linkedin)](https://www.linkedin.com/in/edwardthornton/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Thornton-blue?logo=linkedin)](https://www.linkedin.com/in/edwardtthornton/)  
 📧 **Email:** Et@cloudsystemsdirect.com  
 🏢 **Website:** [HireEdwardThornton.click](https://hireedwardthornton.click)
 
