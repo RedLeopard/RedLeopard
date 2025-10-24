@@ -2,11 +2,15 @@
 
 ### ☁️ AWS Solutions Architect | Cloud Engineer 
 
-I am a Cloud/DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Github Action. Proficient in AWS services such as CloudWatch, S3, Route 53, VPC, EC2, IAM Users & Roles, Lambda, and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP.
+I am a a tech founder and AWS Solutions Architect recognized by FOX News and DELUX Magazine for creating technology that uplifts communities and drives innovation. My mission is to build cloud systems that empower people — from startups to public-sector transformation.
 
-In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done.
+I’m a Cloud/DevOps Engineer with hands-on experience deploying and managing infrastructure using HashiCorp Terraform and GitHub Actions. Proficient in AWS services including CloudWatch, S3, Route 53, VPC, EC2, IAM (Users & Roles), Lambda, and serverless architectures.
 
-I also use Draw.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Draw.io, are key to delivering successful projects and I make sure to apply them in my daily work.
+Skilled with Docker and Linux, and experienced in implementing LDAP, a widely used open-source directory protocol. I also apply Agile methodologies with tools such as Jira for project tracking and Confluence for documentation — ensuring clear communication, accountability, and smooth collaboration.
+
+To visualize and communicate infrastructure designs, I use Draw.io to create AWS architecture diagrams, improving transparency and efficiency for all stakeholders.
+
+✨ I believe that clarity, automation, and innovation are the pillars of great cloud engineering — and I make sure to apply them every day.
 
 ---
 
