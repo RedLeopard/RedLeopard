@@ -12,7 +12,7 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
 
 ✨ I believe that clarity, automation, and innovation are the pillars of great cloud engineering — and I make sure to apply them every day.
 
-<img width="1421" height="771" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
+<img width="1200" height="400" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
 ---
 
@@ -23,10 +23,12 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
 - 🧰 **Tools & Platforms:** Terraform, AWS CDK, GitHub Actions, Docker, Amazon Connect, CloudWatch  
 - 🧮 **Methodologies:** Agile, CI/CD, Security by Design, GitOps  
 - 🧾 **Certifications:**  
-  - AWS Certified Solutions Architect – Professional  
-  - AWS Certified Developer – Associate  
-  - Amazon Connect Communications Specialist  
-  - Oracle OCI AI Foundations Associate  
+  -AWS Certified Solutions Architect – Professional
+  -AWS Certified Developer – Associate
+  -Oracle OCI AI Foundations Associate
+  -Linux Foundation LFS101 – Introduction to Linux
+  -Linux Foundation LFS157 – Serverless on Kubernetes
+  -Linux Foundation LFS167 – Jenkins Fundamentals
 
 ---
 
