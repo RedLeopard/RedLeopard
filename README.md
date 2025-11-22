@@ -22,7 +22,8 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
 - 🏗️ **Specialties:** AWS Cloud, DevOps Automation, Infrastructure as Code (IaC)  
 - 🧰 **Tools & Platforms:** Terraform, AWS CDK, GitHub Actions, Docker, Amazon Connect, CloudWatch  
 - 🧮 **Methodologies:** Agile, CI/CD, Security by Design, GitOps  
-- 🧾 **Certifications:**
+ 🧾 **Certifications:**
+- 
   
    |AWS Certified Solutions Architect – Professional
    |AWS Certified Developer – Associate
