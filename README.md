@@ -12,7 +12,7 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
 
 ✨ I believe that clarity, automation, and innovation are the pillars of great cloud engineering — and I make sure to apply them every day.
 
-<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
 ---
 
