@@ -26,9 +26,8 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
   - AWS Certified Solutions Architect – Professional
   - AWS Certified Developer – Associate
   - Oracle OCI AI Foundations Associate
-  - Linux Foundation LFS101 – Introduction to Linux
   - Linux Foundation LFS157 – Serverless on Kubernetes
-  - Linux Foundation LFS167 – Jenkins Fundamentals
+
 
 ---
 
