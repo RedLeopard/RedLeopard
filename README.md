@@ -1,16 +1,19 @@
 # 👋 Hi there, I’m Edward Thornton
 
-### ☁️ AWS Solutions Architect | Cloud Engineer 
+### ☁️ AWS/GCP Solutions Architect | Cloud Engineer 
 
-I am a a tech founder and AWS Solutions Architect recognized by FOX News and DELUX Magazine for creating technology that uplifts communities and drives innovation. My mission is to build cloud systems that empower people — from startups to public-sector transformation.
+I am a Multi-Cloud Solutions Architect recognized by FOX News and DELUX Magazine for creating technology that uplifts communities and drives innovation. My mission is to build cloud systems that empower people — from startups to public-sector transformation.
 
-I’m a Cloud/DevOps Engineer with hands-on experience deploying and managing infrastructure using HashiCorp Terraform and GitHub Actions. Proficient in AWS services including CloudWatch, S3, Route 53, VPC, EC2, IAM (Users & Roles), Lambda, and serverless architectures.
+I’m a Cloud/DevOps Engineer with hands-on experience deploying and managing infrastructure using HashiCorp Terraform, GitHub Actions, and cloud-native automation tools. Proficient in both AWS and Google Cloud Platform (GCP), including services such as CloudWatch, S3, Route 53, VPC, EC2, IAM, Lambda, BigQuery, Cloud Storage, Cloud Run, and serverless architectures.
 
-Skilled with Docker and Linux, and experienced in implementing LDAP, a widely used open-source directory protocol. I also apply Agile methodologies with tools such as Jira for project tracking and Confluence for documentation — ensuring clear communication, accountability, and smooth collaboration.
+Skilled with Kubernetes, Docker, Linux, and LDAP, with experience designing secure, scalable, and highly available cloud environments. I also apply Agile methodologies with tools such as Jira and Confluence for project tracking, documentation, and cross-functional collaboration.
 
-To visualize and communicate infrastructure designs, I use Draw.io to create AWS architecture diagrams, improving transparency and efficiency for all stakeholders.
+My experience spans cloud architecture, Infrastructure as Code (IaC), DevOps automation, cloud security, networking, and data platforms. I work with technologies including Terraform, Kubernetes, Python, SQL, Databricks, and BigQuery to build modern cloud solutions that are reliable, scalable, and cost-effective.
 
-✨ I believe that clarity, automation, and innovation are the pillars of great cloud engineering — and I make sure to apply them every day.
+To visualize and communicate infrastructure designs, I use Draw.io to create cloud architecture diagrams, improving transparency and efficiency for stakeholders and engineering teams alike.
+
+✨ I believe that clarity, automation, innovation, and continuous learning are the pillars of great cloud engineering — and I strive to apply them every day.
+
 
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
@@ -18,15 +21,17 @@ To visualize and communicate infrastructure designs, I use Draw.io to create AWS
 
 ## 🧠 About Me
 
-- 💼 **Current Role:** Principal Solutions Architect at Cloud Systems Direct  
-- 🏗️ **Specialties:** AWS Cloud, DevOps Automation, Infrastructure as Code (IaC)  
-- 🧰 **Tools & Platforms:** Terraform, AWS CDK, GitHub Actions, Docker, Amazon Connect, CloudWatch  
-- 🧮 **Methodologies:** Agile, CI/CD, Security by Design, GitOps  
+- 💼 **Current Role:** Solutions Architect at Cloud Systems Direct  
+- 🏗️ **Specialties:** Multi-Cloud Architecture (AWS & GCP), Platform Engineering, DevOps, Cloud Security, Infrastructure as Code (IaC)
+- 🧰 **Tools & Platforms:** Terraform, GitHub Actions, Docker, Kubernetes, AWS, Google Cloud Platform (GCP), BigQuery, Databricks,  CloudWatch, Amazon Connect, Linux  
+- 🧮 **Methodologies:** Agile, CI/CD, GitOps, Security by Design, Well-Architected Frameworks  
 - 🧾 **Certifications:**
-  - AWS Certified Solutions Architect – Professional
+  - Google Cloud Professional Cloud Architect
   - AWS Certified Developer – Associate
-  - Oracle OCI AI Foundations Associate
-  - Linux Foundation LFS157 – Serverless on Kubernetes
+  - Oracle OCI AI  Associate
+  - AWS Knowledge: Amazon Connect AI Fundamentals
+  - Linux Foundation LFS157
+  – SLFS157: Introduction to Serverless on Kubernetes
 
 
 ---
