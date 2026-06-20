@@ -114,7 +114,7 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
 
 | Category | Tools |
 |-----------|-------|
-| Cloud | AWS, Azure (Foundations), OCI |
+| Cloud | AWS, GCP , OCI |
 | IaC | Terraform, AWS CDK |
 | CI/CD | GitHub Actions, CodePipeline |
 | Containers | Docker, EKS, ECS |
@@ -127,8 +127,8 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
 ## 📚 Current Learning Path
 
 - 🏗️ Mastering **Kubenetes**  
-- 🧠 Preparing for **AWS SAP-C02** (Solutions Architect Professional)  
-- 🐍 Expanding skills in **Python for Cloud Automation**  
+- 🧠 Preparing for **GCP Data Engineer Professional
+- 🐍 Expanding skills in **Python for Cloud Automation** **And SQL** 
 
 ---
 
