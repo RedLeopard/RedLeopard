@@ -127,7 +127,6 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
 ## 📚 Current Learning Path
 
 - 🏗️ Mastering **Kubenetes**  
-- 🧠 Preparing for **GCP Data Engineer Professional
 - 🐍 Expanding skills in **Python for Cloud Automation** **And SQL** 
 
 ---
