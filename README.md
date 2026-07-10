@@ -36,77 +36,82 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
 
 ---
 
-### 🐳 **1. Caterpillar EKS Lab Project**
-> *Enterprise-grade Kubernetes deployment with Terraform + GitHub Actions*
+### 🧩 **1. Enterprise Connect**
 
-**Highlights**
-- Automated **EKS cluster provisioning** using Terraform Blueprints  
-- Integrated **Karpenter** for auto-scaling and optimized node management  
-- Built **CI/CD pipeline** for app deployments using GitHub Actions  
-- Enhanced **security** with IAM roles for service accounts (IRSA)
+> *Enterprise mobility demo showcasing a secure, scalable AWS contact
+> center solution.*
 
-**Tech Stack:** Terraform · AWS EKS · Karpenter · GitHub Actions · IAM  
-🔗 [View Project Repo »](https://github.com/RedLeopard/Caterpillar-EKS-Lab)
+**Highlights** - Built Amazon Connect IVR using AWS Lambda and Amazon
+Lex - Deployed S3 + CloudFront web portal - Implemented CloudWatch
+monitoring and dashboards - Demonstrated enterprise contact center
+integrations
 
----
+**Tech Stack:** Amazon Connect · Lambda · Lex · S3 · CloudFront ·
+CloudWatch
 
-### 🌐 **2. Project Spectrum – Hybrid K8s + GitOps (AWS Terraform Portfolio Project)**
-> *Production-ready Amazon EKS cluster with Terraform + Argo CD GitOps,
+🔗 https://github.com/RedLeopard/Enterprise-Connect
 
-**Highlights**
-- 🧩 **Infrastructure-as-Code** using Terraform for VPC + EKS provisioning  
-- ☸️ **Amazon EKS (1.29)** with managed node groups across multiple AZs  
-- 🔐 **IRSA (IAM Roles for Service Accounts)** for least-privilege IAM security  
-- ⚙️ **Argo CD GitOps** for automated sync + drift detection  
-- 🌐 **API endpoint CIDR controls** – public for dev, restrict for prod  
-- 💰 **FinOps-aware** (Spot nodes, AWS Budgets/Anomaly Detection ready)  
-- 🧰 Modular layout ready for CI, Ansible, and MLOps add-ons  
+------------------------------------------------------------------------
 
+### 🌎 **2. AncestorIQ -- AI-Powered African American Genealogy Platform (Google Cloud)**
 
-**Tech Stack:** Terraform · Amazon EKS · Argo CD · GitHub Actions · IRSA · AWS VPC · Helm · Kubernetes  
-🔗 [View Project Repo »](https://github.com/RedLeopard/Project-Spectrum)
+> *Cloud-native genealogy search platform built on Google Cloud
+> Platform.*
 
----
+**Highlights** - Built a FastAPI application deployed on Cloud Run -
+Created a BigQuery search index with 359,000+ historical genealogy
+records - Developed Python-powered search APIs and data processing
+pipelines - Configured Cloud DNS, custom domains, HTTPS, and Docker
+deployment - Built a responsive web application backed by scalable
+serverless infrastructure
 
-### 🏦 **3. Safety National Claims Modernization**
-> *Serverless claims intake and processing workflow*
+**Tech Stack:** Google Cloud Platform · Cloud Run · BigQuery · Cloud
+Storage · Cloud DNS · FastAPI · Python · SQL · Docker
 
-**Highlights**
-- Designed **Step Functions-based orchestration** for claim processing  
-- Integrated with **Amazon Connect** for call routing and claim logging  
-- Secured sensitive data using **AWS KMS** and IAM least privilege  
-- Improved claim response time with **serverless automation**
+🔗 https://github.com/RedLeopard/AncestorIQ
 
-**Tech Stack:** AWS Step Functions · Lambda · DynamoDB · KMS · S3  
-🔗 [View Project Repo »](https://github.com/RedLeopard/SafetyNational-Claims-Modernization)
+------------------------------------------------------------------------
 
----
+### 🌐 **3. Project Spectrum -- Hybrid Kubernetes + GitOps**
 
-### 🧩 **4. Enterprise Connect**
-> *Enterprise Mobility demo showcasing secure, scalable AWS IVR solution*
+> *Production-ready Amazon EKS environment with Terraform and GitOps.*
 
-**Highlights**
-- Built **AWS Lambda + Lex** driven IVR for intelligent customer routing  
-- Deployed **S3 + CloudFront** static site for self-service portal  
-- Used **CloudWatch dashboards** for performance visibility  
-- Demoed integration with internal mobility systems
+**Highlights** - Terraform-managed VPC and Amazon EKS - Argo CD GitOps
+deployments - IRSA security model - Multi-AZ Kubernetes architecture -
+FinOps-ready infrastructure
 
-**Tech Stack:** Amazon Connect · Lambda · Lex · S3 · CloudFront · CloudWatch  
-🔗 [View Project Repo »](https://github.com/RedLeopard/Enterprise-Connect)
+**Tech Stack:** Terraform · Amazon EKS · Argo CD · GitHub Actions · Helm
+· Kubernetes
 
----
+🔗 https://github.com/RedLeopard/Project-Spectrum
+
+------------------------------------------------------------------------
+
+### 🏦 **4. Safety National Claims Modernization**
+
+> *Serverless claims intake and processing workflow.*
+
+**Highlights** - AWS Step Functions orchestration - Amazon Connect
+integration - AWS KMS encryption - Lambda-based automation
+
+**Tech Stack:** AWS Step Functions · Lambda · DynamoDB · KMS · S3
+
+🔗 https://github.com/RedLeopard/SafetyNational-Claims-Modernization
+
+------------------------------------------------------------------------
 
 ### ⚙️ **5. GitHub Self-Hosted Runners on EKS**
-> *Enterprise-grade CI/CD automation with self-hosted runners*
 
-**Highlights**
-- Deployed **GitHub runners** on **EKS** using Terraform and Helm  
-- Configured **autoscaling with Karpenter** and **GitHub Actions integration**  
-- Reduced CI/CD latency and cost vs. hosted runners  
-- Added monitoring with **Prometheus + CloudWatch**
+> *Enterprise-grade CI/CD automation platform.*
 
-**Tech Stack:** Terraform · AWS EKS · Karpenter · GitHub Actions · Prometheus  
-🔗 [View Project Repo »](https://github.com/RedLeopard/GitHub-EKS-Runners)
+**Highlights** - GitHub Actions self-hosted runners on Amazon EKS -
+Terraform + Helm deployment - Karpenter autoscaling - Prometheus and
+CloudWatch monitoring
+
+**Tech Stack:** Terraform · Amazon EKS · Karpenter · GitHub Actions ·
+Prometheus
+
+🔗 https://github.com/RedLeopard/GitHub-EKS-Runners
 
 ---
 
