@@ -31,7 +31,7 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
   - Oracle OCI AI  Associate
   - AWS Knowledge: Amazon Connect AI Fundamentals
   - Linux Foundation LFS157
-  – SLFS157: Introduction to Serverless on Kubernetes
+  - SLFS157: Introduction to Serverless on Kubernetes
 
 
 ---
