@@ -56,7 +56,7 @@ CloudWatch
 
 ------------------------------------------------------------------------
 
-### 🌎 **2. AncestorIQ -- AI-Powered African American Genealogy Platform (Google Cloud)**
+### 🌎 **2. AncestorIQ -- AI-Powered Genealogy Platform (Google Cloud)**
 
 > *Cloud-native genealogy search platform built on Google Cloud
 > Platform.*
