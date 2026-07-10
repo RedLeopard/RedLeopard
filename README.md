@@ -41,10 +41,13 @@ To visualize and communicate infrastructure designs, I use Draw.io to create clo
 > *Enterprise mobility demo showcasing a secure, scalable AWS contact
 > center solution.*
 
-**Highlights** - Built Amazon Connect IVR using AWS Lambda and Amazon
-Lex - Deployed S3 + CloudFront web portal - Implemented CloudWatch
-monitoring and dashboards - Demonstrated enterprise contact center
-integrations
+**Highlights** 
+- Built Amazon Connect IVR using AWS Lambda and Amazon
+Lex 
+- Deployed S3 + CloudFront web portal
+- Implemented CloudWatch
+monitoring and dashboards
+Demonstrated enterprise contact center integrations
 
 **Tech Stack:** Amazon Connect · Lambda · Lex · S3 · CloudFront ·
 CloudWatch
@@ -58,11 +61,15 @@ CloudWatch
 > *Cloud-native genealogy search platform built on Google Cloud
 > Platform.*
 
-**Highlights** - Built a FastAPI application deployed on Cloud Run -
-Created a BigQuery search index with 359,000+ historical genealogy
-records - Developed Python-powered search APIs and data processing
-pipelines - Configured Cloud DNS, custom domains, HTTPS, and Docker
-deployment - Built a responsive web application backed by scalable
+**Highlights** 
+- Built a FastAPI application deployed on Cloud Run
+- Created a BigQuery search index with 359,000+ historical genealogy
+records
+- Developed Python-powered search APIs and data processing
+pipelines
+- Configured Cloud DNS, custom domains, HTTPS, and Docker
+deployment
+- Built a responsive web application backed by scalable
 serverless infrastructure
 
 **Tech Stack:** Google Cloud Platform · Cloud Run · BigQuery · Cloud
@@ -76,9 +83,12 @@ Storage · Cloud DNS · FastAPI · Python · SQL · Docker
 
 > *Production-ready Amazon EKS environment with Terraform and GitOps.*
 
-**Highlights** - Terraform-managed VPC and Amazon EKS - Argo CD GitOps
-deployments - IRSA security model - Multi-AZ Kubernetes architecture -
-FinOps-ready infrastructure
+**Highlights** 
+- Terraform-managed VPC and Amazon EKS
+- Argo CD GitOps deployments
+- IRSA security model
+- Multi-AZ Kubernetes architecture
+- FinOps-ready infrastructure
 
 **Tech Stack:** Terraform · Amazon EKS · Argo CD · GitHub Actions · Helm
 · Kubernetes
@@ -91,8 +101,11 @@ FinOps-ready infrastructure
 
 > *Serverless claims intake and processing workflow.*
 
-**Highlights** - AWS Step Functions orchestration - Amazon Connect
-integration - AWS KMS encryption - Lambda-based automation
+**Highlights** 
+- AWS Step Functions orchestration
+- Amazon Connect integration
+- AWS KMS encryption
+- Lambda-based automation
 
 **Tech Stack:** AWS Step Functions · Lambda · DynamoDB · KMS · S3
 
@@ -104,8 +117,11 @@ integration - AWS KMS encryption - Lambda-based automation
 
 > *Enterprise-grade CI/CD automation platform.*
 
-**Highlights** - GitHub Actions self-hosted runners on Amazon EKS -
-Terraform + Helm deployment - Karpenter autoscaling - Prometheus and
+**Highlights** 
+- GitHub Actions self-hosted runners on Amazon EKS
+- Terraform + Helm deployment
+- Karpenter autoscaling
+- Prometheus and
 CloudWatch monitoring
 
 **Tech Stack:** Terraform · Amazon EKS · Karpenter · GitHub Actions ·
