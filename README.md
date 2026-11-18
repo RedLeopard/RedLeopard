@@ -2,15 +2,13 @@
 
 ### ☁️ Multi-Cloud Solutions Architect | Principal-Level CX Services Architecture | Conversational & Agentic AI
 
-I’m a **Multi-Cloud Solutions Architect and hands-on Cloud/DevOps Engineer** focused on designing secure, scalable systems and modernizing how organizations connect with their customers. My work spans **AWS, Google Cloud, and Oracle Cloud technologies**, bringing together cloud architecture, customer experience (CX), automation, data platforms, and AI to solve business problems with practical technology.
+I’m a **Multi-Cloud Solutions Architect and hands-on Cloud/DevOps Engineer** designing secure, scalable cloud platforms and modern customer experiences across **AWS, Google Cloud, and Oracle Cloud technologies**. I bring architecture, engineering, automation, and AI together to solve business challenges.
 
-A major focus of my work is **enterprise CX and contact center architecture**. I design voice and omnichannel experiences using technologies such as **Amazon Connect, Dialogflow CX, Twilio, Amazon Lex, and Agentic CX Designer**. That includes IVR and intelligent routing, conversational AI, live-agent handoffs, customer self-service, and integrations that connect contact centers to cloud applications and data. I think beyond individual features to the full customer journey, operational requirements, security boundaries, and the architectural decisions needed to deliver a reliable service.
+My focus includes **enterprise CX and contact center modernization**, designing voice and omnichannel experiences with **Amazon Connect, Dialogflow CX, Twilio, Amazon Lex, and Agentic CX Designer**. From IVR and intelligent routing to conversational AI, self-service, and live-agent handoffs, I consider the full customer journey, system integrations, security, and reliability.
 
-I'm equally comfortable working beneath the experience layer. I build and automate the infrastructure that supports modern applications using **Terraform, Kubernetes, Docker, Python, GitHub Actions, Jenkins, and CI/CD pipelines**. My engineering experience also includes serverless systems, cloud networking, identity and access management, monitoring, and data services such as **BigQuery, Cloud Run, AWS Lambda, and Step Functions**. I apply security-by-design principles, Infrastructure as Code, and well-architected practices to make systems easier to operate, scale, and maintain.
+I also build the infrastructure behind these experiences using **Terraform, Kubernetes, Docker, Python, GitHub Actions, Jenkins, and CI/CD**. My work includes serverless architecture, cloud networking, security, monitoring, and data platforms such as **BigQuery, Cloud Run, AWS Lambda, and Step Functions**. I combine architectural decision-making with hands-on delivery: translating requirements into designs, explaining tradeoffs, and implementing practical solutions.
 
-I believe a strong solutions architect should be able to **translate business needs into a clear design, explain the tradeoffs, and help implement the solution**. Whether I'm modernizing a contact center, developing a voice assistant, or engineering a cloud platform, I bring both an architectural perspective and the technical depth to build what I design.
-
-Beyond my engineering work, I've developed voice applications and written technical books to make emerging technologies more approachable. I've also been recognized by **FOX News and DELUX Magazine** for technology and community-focused innovation.
+Beyond engineering, I’m a technical author and Alexa skill developer, recognized by **FOX News and DELUX Magazine** for technology and community-focused innovation.
 
 <img width="1000" height="600" alt="Edward Thornton technology portfolio banner" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
