@@ -1,162 +1,203 @@
-# 👋 Hi there, I’m Edward Thornton
+# 👋 Hi, I'm Edward Thornton
 
-### ☁️ AWS/GCP Solutions Architect | Cloud Engineer 
+### ☁️ Multi-Cloud Solutions Architect | Principal-Level CX Services Architecture | Conversational & Agentic AI
 
-I am a Multi-Cloud Solutions Architect recognized by FOX News and DELUX Magazine for creating technology that uplifts communities and drives innovation. My mission is to build cloud systems that empower people — from startups to public-sector transformation.
+I design cloud platforms and customer experience (CX) solutions that connect **people, applications, data, and AI**. My work spans **AWS, Google Cloud, and Oracle Cloud technologies**, with a focus on **contact center modernization, omnichannel architecture, conversational AI, secure integrations, cloud engineering, and automation**.
 
-I’m a Cloud/DevOps Engineer with hands-on experience deploying and managing infrastructure using HashiCorp Terraform, GitHub Actions, and cloud-native automation tools. Proficient in both AWS and Google Cloud Platform (GCP), including services such as CloudWatch, S3, Route 53, VPC, EC2, IAM, Lambda, BigQuery, Cloud Storage, Cloud Run, and serverless architectures.
+My approach combines **solution architecture with hands-on implementation**: understanding business needs, making cloud design decisions, building secure and scalable solutions, and demonstrating real-world outcomes.
 
-Skilled with Kubernetes, Docker, Linux, and LDAP, with experience designing secure, scalable, and highly available cloud environments. I also apply Agile methodologies with tools such as Jira and Confluence for project tracking, documentation, and cross-functional collaboration.
+I've been recognized by **FOX News and DELUX Magazine** for technology and community-focused innovation.
 
-My experience spans cloud architecture, Infrastructure as Code (IaC), DevOps automation, cloud security, networking, and data platforms. I work with technologies including Terraform, Kubernetes, Python, SQL, Databricks, and BigQuery to build modern cloud solutions that are reliable, scalable, and cost-effective.
-
-To visualize and communicate infrastructure designs, I use Draw.io to create cloud architecture diagrams, improving transparency and efficiency for stakeholders and engineering teams alike.
-
-✨ I believe that clarity, automation, innovation, and continuous learning are the pillars of great cloud engineering — and I strive to apply them every day.
-
-
-<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
+<img width="1000" height="600" alt="Edward Thornton technology portfolio banner" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
 ---
 
 ## 🧠 About Me
 
-- 💼 **Current Role:** Solutions Architect at Cloud Systems Direct  
-- 🏗️ **Specialties:** Multi-Cloud Architecture (AWS & GCP), Platform Engineering, DevOps, Cloud Security, Infrastructure as Code (IaC)
-- 🧰 **Tools & Platforms:** Terraform, GitHub Actions, Docker, Kubernetes, AWS, Google Cloud Platform (GCP), BigQuery, Databricks,  CloudWatch, Amazon Connect, Linux  
-- 🧮 **Methodologies:** Agile, CI/CD, GitOps, Security by Design, Well-Architected Frameworks  
-- 🧾 **Certifications:**
-  - Google Cloud Professional Cloud Architect
-  - AWS Certified Developer – Associate
-  - Oracle OCI AI  Associate
-  - AWS Knowledge: Amazon Connect AI Fundamentals
-  - Linux Foundation LFS157
-  - SLFS157: Introduction to Serverless on Kubernetes
-
+- 💼 **Current Work:** Solutions Architect at Cloud Systems Direct
+- 🏗️ **Architecture Focus:** Principal-level Cloud CX services, Amazon Connect, AI-assisted contact centers, multi-cloud solutions, and enterprise integration
+- 🎙️ **Customer Experience:** IVR, intelligent routing, contact flows, conversational AI, agent handoffs, voice, chat, and omnichannel strategy
+- ☁️ **Cloud Platforms:** AWS, Google Cloud, Oracle Cloud technologies, and Azure + GCP architecture design
+- ⚙️ **Engineering:** Terraform, Kubernetes, Docker, CI/CD, GitOps, Python, SQL, and serverless applications
+- 🔐 **Principles:** Security by design, least-privilege access, well-architected systems, observability, and operational resilience
+- 📐 **Solution Design:** Architecture diagrams, technical documentation, tradeoff analysis, and implementation roadmaps
 
 ---
 
-### 🧩 **1. Enterprise Connect**
+## 🚀 Featured Projects
 
-> *Enterprise mobility demo showcasing a secure, scalable AWS contact
-> center solution.*
+### 1. 🎙️ Maya | Dialogflow CX Virtual Agent
 
-**Highlights** 
-- Built Amazon Connect IVR using AWS Lambda and Amazon
-Lex 
-- Deployed S3 + CloudFront web portal
-- Implemented CloudWatch
-monitoring and dashboards
-Demonstrated enterprise contact center integrations
+**A conversational AI phone solution for business inquiries, lead intake, and live-agent handoff.**
 
-**Tech Stack:** Amazon Connect · Lambda · Lex · S3 · CloudFront ·
-CloudWatch
+- Designed inbound voice conversations using **Dialogflow CX**, **Twilio Studio**, and **Gemini on Vertex AI**.
+- Built a **FastAPI** service on **Cloud Run** with deployed **BigQuery** lead/event structures and reporting views.
+- Implemented customer intake, booking-link text messages, and a confirmed **press-1 screened transfer**. Some failure-path and live analytics verification remains in progress.
 
-🔗 https://github.com/RedLeopard/Enterprise-Connect
+**Stack:** Google Cloud · Dialogflow CX · Vertex AI · Cloud Run · BigQuery · FastAPI · Twilio
 
-------------------------------------------------------------------------
+🔗 [Explore Maya](https://github.com/RedLeopard/dialogflow-cx-virtual-agent)
 
-### 🌎 **2. AncestorIQ -- AI-Powered Genealogy Platform (Google Cloud)**
+### 2. 🌎 AncestorIQ | Cloud-Native Genealogy Platform
 
-> *Cloud-native genealogy search platform built on Google Cloud
-> Platform.*
+**A live Google Cloud application for researching historical genealogy records.**
 
-**Highlights** 
-- Built a FastAPI application deployed on Cloud Run
-- Created a BigQuery search index with 359,000+ historical genealogy
-records
-- Developed Python-powered search APIs and data processing
-pipelines
-- Configured Cloud DNS, custom domains, HTTPS, and Docker
-deployment
-- Built a responsive web application backed by scalable
-serverless infrastructure
+- Developed a **FastAPI** search application deployed to **Cloud Run**.
+- Built historical-record search and data processing with **BigQuery**, **Python**, and **SQL**.
+- Created a responsive web application with a scalable serverless architecture; evidence-grounded AI research features are part of the roadmap.
 
-**Tech Stack:** Google Cloud Platform · Cloud Run · BigQuery · Cloud
-Storage · Cloud DNS · FastAPI · Python · SQL · Docker
+**Stack:** Google Cloud · Cloud Run · BigQuery · Cloud Storage · Python · FastAPI · SQL · Docker
 
-🔗 https://github.com/RedLeopard/AncestorIQ
+🔗 [GitHub Repository](https://github.com/RedLeopard/AncestorIQ) · [Live Application](https://ancestoriq.app)
 
-------------------------------------------------------------------------
+### 3. 📞 Project Enterprise Connect | AWS Contact Center
 
-### 🌐 **3. Project Spectrum -- Hybrid Kubernetes + GitOps**
+**A working Amazon Connect contact center demonstration focused on routing, operations, and agent experiences.**
 
-> *Production-ready Amazon EKS environment with Terraform and GitOps.*
+- Configured IVR/DTMF call routing, queues, routing profiles, and agent softphone delivery.
+- Demonstrated real-time operational metrics and call recordings stored in **Amazon S3**.
+- Documented an optional **Lambda + DynamoDB** approach for contact auditing.
 
-**Highlights** 
-- Terraform-managed VPC and Amazon EKS
-- Argo CD GitOps deployments
-- IRSA security model
-- Multi-AZ Kubernetes architecture
-- FinOps-ready infrastructure
+**Stack:** AWS · Amazon Connect · S3 · Lambda · DynamoDB · CloudWatch
 
-**Tech Stack:** Terraform · Amazon EKS · Argo CD · GitHub Actions · Helm
-· Kubernetes
+🔗 [GitHub Repository](https://github.com/RedLeopard/project-enterprise-connect) · [Portfolio Case Study](https://hireedwardthornton.click/enterprise-connect.html)
 
-🔗 https://github.com/RedLeopard/Project-Spectrum
+### 4. 🤖 AWS Agentic Spock | Conversational Portfolio Assistant
 
-------------------------------------------------------------------------
+**A voice-first AI experience built with Amazon Connect and Agentic CX Designer.**
 
-### 🏦 **4. Safety National Claims Modernization**
+- Designed **potential-client, recruiter, and live-demo** caller journeys.
+- Integrated structured project case studies to answer CX architecture and cloud engineering questions.
+- Built an **Amazon SES** email-delivery integration; end-to-end delivery verification and SMS enablement are continuing milestones.
 
-> *Serverless claims intake and processing workflow.*
+**Stack:** AWS · Amazon Connect · Agentic CX Designer · SES · Lambda · API Gateway
 
-**Highlights** 
-- AWS Step Functions orchestration
-- Amazon Connect integration
-- AWS KMS encryption
-- Lambda-based automation
+**Status:** Active development and testing
 
-**Tech Stack:** AWS Step Functions · Lambda · DynamoDB · KMS · S3
+🔗 [Explore AWS Agentic Spock](https://github.com/RedLeopard/aws-agentic-spock)
 
-🔗 https://github.com/RedLeopard/SafetyNational-Claims-Modernization
+### 5. 🪐 Neptune Insurance | Omnichannel CX Architecture Lab
 
-------------------------------------------------------------------------
+**A fictional insurance customer experience lab for exploring enterprise AWS contact center architecture.**
 
-### ⚙️ **5. GitHub Self-Hosted Runners on EKS**
+- Deployed a responsive customer website with **S3**, **CloudFront**, **ACM**, and **Route 53**.
+- Created simulated claims, coverage, and policy portal experiences.
+- Developing an **Amazon Connect** architecture for voice, chat, messaging, and AI-assisted insurance customer service.
 
-> *Enterprise-grade CI/CD automation platform.*
+**Stack:** AWS · S3 · CloudFront · Route 53 · ACM · Amazon Connect (integration roadmap)
 
-**Highlights** 
-- GitHub Actions self-hosted runners on Amazon EKS
-- Terraform + Helm deployment
-- Karpenter autoscaling
-- Prometheus and
-CloudWatch monitoring
+**Status:** Customer website deployed; contact center integrations in progress. Website insurance workflows are simulations.
 
-**Tech Stack:** Terraform · Amazon EKS · Karpenter · GitHub Actions ·
-Prometheus
+🔗 [GitHub Repository](https://github.com/RedLeopard/neptune-insurance) · [Live Demo](https://neptune.hireedwardthornton.click/)
 
-🔗 https://github.com/RedLeopard/GitHub-EKS-Runners
+### 6. ☎️ Twilio Smart Call Routing System
+
+**A modular cloud telephony solution for screening callers, routing conversations, and managing unanswered calls.**
+
+- Built **Twilio Functions** for greetings, call forwarding, call screening, and voicemail.
+- Designed **answering-machine detection (AMD)** and no-answer fallback flows.
+- Structured JavaScript handlers for reusable, customizable business phone routing.
+
+**Stack:** Twilio Programmable Voice · Twilio Functions · Node.js · JavaScript
+
+**Status:** In progress, with deployment and testing documented in the repository
+
+🔗 [Explore Twilio Smart Call Routing](https://github.com/RedLeopard/twilio-smart-call-routing-system)
+
+### 7. ⚡ Energy Transmission | Hybrid Platform Engineering
+
+**A utility-style engineering demonstration with Kubernetes, CI/CD, monitoring, and Oracle data services.**
+
+- Developed a **.NET** application deployment example for **OpenShift** and **Amazon EKS**.
+- Incorporated **Jenkins**, **Docker**, **Prometheus**, and **Grafana** for deployment and observability.
+- Added **Oracle Autonomous Database** as a data platform component.
+
+**Stack:** AWS EKS · OpenShift · Oracle Database · Jenkins · Docker · Kubernetes · Grafana
+
+🔗 [Explore Energy Transmission](https://github.com/RedLeopard/energy-transmission-project)
+
+### 8. 🌐 Multi-Cloud Merchandising | Azure + GCP Architecture
+
+**A documented multi-cloud design for event-driven pricing and inventory synchronization.**
+
+- Designed integrations between **GCP Cloud Run**, **Confluent Kafka**, **Azure Functions**, and **Cosmos DB**.
+- Incorporated **BigQuery** analytics, auditability, event replay, and recovery planning.
+- Published architecture diagrams, decision records, sample services, and Terraform scaffolding.
+
+**Stack:** Google Cloud · Azure · Kafka · BigQuery · Cosmos DB · Terraform
+
+**Status:** Architecture and reference-design project, not a claimed production deployment
+
+🔗 [Explore Multi-Cloud Architecture](https://github.com/RedLeopard/Store-merch-architecture)
+
+### 9. ☸️ Project Spectrum | Kubernetes + GitOps
+
+**Terraform-managed Amazon EKS architecture with secure Kubernetes application delivery.**
+
+- Defined **VPC** and **EKS** infrastructure through **Terraform**.
+- Integrated **Argo CD** and **GitHub Actions** for GitOps-based workflows.
+- Applied **IAM Roles for Service Accounts (IRSA)**, multi-AZ design, and FinOps considerations.
+
+**Stack:** AWS EKS · Terraform · Kubernetes · Argo CD · GitHub Actions
+
+🔗 [Explore Project Spectrum](https://github.com/RedLeopard/project-spectrum)
+
+### 10. 🛡️ Insurance Claims Modernization | Serverless AWS
+
+**A secure Terraform-based reference implementation for claims intake and processing.**
+
+- Designed **API Gateway → Lambda → Step Functions** orchestration.
+- Included **RDS PostgreSQL**, **S3**, **AWS KMS**, and **Secrets Manager**.
+- Documented infrastructure configuration and secure cloud architecture patterns.
+
+**Stack:** AWS · Terraform · API Gateway · Lambda · Step Functions · RDS · KMS
+
+🔗 [Explore Claims Modernization](https://github.com/RedLeopard/Insurance-Claims-Modernization)
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Technology Stack
 
-| Category | Tools |
-|-----------|-------|
-| Cloud | AWS, GCP , OCI |
-| IaC | Terraform, AWS CDK |
-| CI/CD | GitHub Actions, CodePipeline |
-| Containers | Docker, EKS, ECS |
-| Monitoring | CloudWatch, Grafana |
-| Scripting | Bash, Python |
-| Management | Jira, Confluence |
+| Category | Technologies |
+| --- | --- |
+| **Cloud** | AWS, Google Cloud, OCI; Azure architecture design |
+| **CX & Telephony** | Amazon Connect, Agentic CX Designer, Dialogflow CX, Amazon Lex, Twilio |
+| **AI & Data** | Gemini, Vertex AI, BigQuery, Oracle Database, Python, SQL |
+| **Serverless** | AWS Lambda, API Gateway, Step Functions, Google Cloud Run |
+| **Infrastructure as Code** | Terraform, AWS CDK |
+| **Containers** | Kubernetes, Amazon EKS, Red Hat OpenShift, Docker, Helm |
+| **CI/CD** | GitHub Actions, Jenkins, Argo CD, CodePipeline |
+| **Security & Monitoring** | IAM, KMS, CloudWatch, Prometheus, Grafana |
+| **Collaboration & Design** | Draw.io, Jira, Confluence, Architecture Decision Records |
 
 ---
 
-## 📚 Current Learning Path
+## 🏅 Certifications & Learning
 
-- 🏗️ Mastering **Kubenetes**  
-- 🐍 Expanding skills in **Python for Cloud Automation** **And SQL** 
+- Google Cloud Professional Cloud Architect
+- AWS Certified Developer – Associate
+- Oracle Cloud Infrastructure AI Associate
+- AWS Knowledge: Amazon Connect AI Fundamentals
+- Linux Foundation: Introduction to Serverless on Kubernetes (LFS157)
+
+**Currently deepening my expertise in:** Amazon Connect omnichannel architecture, Agentic CX, Kubernetes, and Python/SQL for cloud automation.
+
+---
+
+## 📚 Beyond the Architecture
+
+I'm also the author of **[Voice Applications for Beginners](https://www.amazon.com/dp/B09SNKVGSR)**. My interests combine cloud engineering, voice technology, education, and creative problem-solving.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Thornton-blue?logo=linkedin)](https://www.linkedin.com/in/edwardtthornton/)  
-📧 **Email:** Et@cloudsystemsdirect.com  
-🏢 **Website:** [HireEdwardThornton.click](https://hireedwardthornton.click)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edward%20Thornton-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardtthornton/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-HireEdwardThornton.click-172554?logo=googlechrome&logoColor=white)](https://hireedwardthornton.click)
+
+📧 **Email:** [et@cloudsystemsdirect.com](mailto:et@cloudsystemsdirect.com)  
+🏢 **Website:** [HireEdwardThornton.click](https://hireedwardthornton.click)  
+💻 **GitHub:** [RedLeopard](https://github.com/RedLeopard)
 
 ---
 
