@@ -2,11 +2,15 @@
 
 ### ☁️ Multi-Cloud Solutions Architect | Principal-Level CX Services Architecture | Conversational & Agentic AI
 
-I design cloud platforms and customer experience (CX) solutions that connect **people, applications, data, and AI**. My work spans **AWS, Google Cloud, and Oracle Cloud technologies**, with a focus on **contact center modernization, omnichannel architecture, conversational AI, secure integrations, cloud engineering, and automation**.
+I’m a **Multi-Cloud Solutions Architect and hands-on Cloud/DevOps Engineer** focused on designing secure, scalable systems and modernizing how organizations connect with their customers. My work spans **AWS, Google Cloud, and Oracle Cloud technologies**, bringing together cloud architecture, customer experience (CX), automation, data platforms, and AI to solve business problems with practical technology.
 
-My approach combines **solution architecture with hands-on implementation**: understanding business needs, making cloud design decisions, building secure and scalable solutions, and demonstrating real-world outcomes.
+A major focus of my work is **enterprise CX and contact center architecture**. I design voice and omnichannel experiences using technologies such as **Amazon Connect, Dialogflow CX, Twilio, Amazon Lex, and Agentic CX Designer**. That includes IVR and intelligent routing, conversational AI, live-agent handoffs, customer self-service, and integrations that connect contact centers to cloud applications and data. I think beyond individual features to the full customer journey, operational requirements, security boundaries, and the architectural decisions needed to deliver a reliable service.
 
-I've been recognized by **FOX News and DELUX Magazine** for technology and community-focused innovation.
+I'm equally comfortable working beneath the experience layer. I build and automate the infrastructure that supports modern applications using **Terraform, Kubernetes, Docker, Python, GitHub Actions, Jenkins, and CI/CD pipelines**. My engineering experience also includes serverless systems, cloud networking, identity and access management, monitoring, and data services such as **BigQuery, Cloud Run, AWS Lambda, and Step Functions**. I apply security-by-design principles, Infrastructure as Code, and well-architected practices to make systems easier to operate, scale, and maintain.
+
+I believe a strong solutions architect should be able to **translate business needs into a clear design, explain the tradeoffs, and help implement the solution**. Whether I'm modernizing a contact center, developing a voice assistant, or engineering a cloud platform, I bring both an architectural perspective and the technical depth to build what I design.
+
+Beyond my engineering work, I've developed voice applications and written technical books to make emerging technologies more approachable. I've also been recognized by **FOX News and DELUX Magazine** for technology and community-focused innovation.
 
 <img width="1000" height="600" alt="Edward Thornton technology portfolio banner" src="https://github.com/user-attachments/assets/3de960dc-54ea-4d0c-8ebf-a80085f5a3c6" />
 
@@ -184,9 +188,22 @@ I've been recognized by **FOX News and DELUX Magazine** for technology and commu
 
 ---
 
-## 📚 Beyond the Architecture
+## 📚 Books, Alexa Skills & Technical Education
 
-I'm also the author of **[Voice Applications for Beginners](https://www.amazon.com/dp/B09SNKVGSR)**. My interests combine cloud engineering, voice technology, education, and creative problem-solving.
+I'm an **Amazon bestselling author**, voice-application developer, and technical educator. Alongside building cloud systems, I enjoy making technology understandable through published books and hands-on applications.
+
+### 📖 Published Books
+
+- **[Voice Applications for Beginners: A Genius Guide to Developing Skills for Alexa and Google Assistant](https://www.amazon.com/dp/B09SNKVGSR)**  
+  A practical introduction to building voice-first applications, working with conversational interfaces, and developing experiences for Alexa and Google Assistant.
+- **[Go For Beginners: A Genius Guide to Go Programing](https://www.barnesandnoble.com/w/go-for-beginners-a-genius-guide-to-go-programing-edward-thornton/1140087597)**  
+  An accessible introduction to the Go programming language, including its core concepts and its usefulness for modern cloud and backend development.
+
+### 🎙️ Alexa Skill Development
+
+I've also **developed and published Alexa skills**, including **[Street Genius Rhyming Words](https://www.amazon.com/dp/B09PNKJH5C)**, a voice-driven tool that helps users find rhyming words. Building voice experiences gave me a practical foundation in conversational interactions, user intent, prompts, and voice-first design, skills I continue applying to **conversational AI, contact center modernization, and agentic CX architecture**.
+
+For me, writing, building, and teaching are connected: understand the architecture, implement the technology, and make it accessible to others.
 
 ---
 
