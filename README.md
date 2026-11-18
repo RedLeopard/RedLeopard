@@ -176,13 +176,20 @@ Beyond my engineering work, I've developed voice applications and written techni
 
 ---
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications, Skills Badges & Learning
+
+### Professional Certifications & Credentials
 
 - Google Cloud Professional Cloud Architect
 - AWS Certified Developer – Associate
 - Oracle Cloud Infrastructure AI Associate
 - AWS Knowledge: Amazon Connect AI Fundamentals
 - Linux Foundation: Introduction to Serverless on Kubernetes (LFS157)
+
+### CX & Conversational AI Training
+
+- **[Amazon Connect Customer Agentic CX Designer](https://hireedwardthornton.click/assets/Amazon%20Connect%20Customer%20Agentic%20CX%20Designer.pdf)** — Course completed November 2026. [View completion certificate (PDF)](https://hireedwardthornton.click/assets/Amazon%20Connect%20Customer%20Agentic%20CX%20Designer.pdf)
+- **[Conversational AI on Vertex AI and Dialogflow CX](https://www.skills.google/public_profiles/bf51fe57-5e9a-4e1b-84d3-aaf15b9d6292)** — Google Skills badge earned October 22, 2026. [View Google Skills profile](https://www.skills.google/public_profiles/bf51fe57-5e9a-4e1b-84d3-aaf15b9d6292)
 
 **Currently deepening my expertise in:** Amazon Connect omnichannel architecture, Agentic CX, Kubernetes, and Python/SQL for cloud automation.
 
